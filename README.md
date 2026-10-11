@@ -25,7 +25,7 @@ Currently leveling up in system design, databases, and writing code that doesn't
 
 - 🔨 &nbsp;Building full stack web apps end-to-end
 - 🌱 &nbsp;Currently deepening: **system design**, **PostgreSQL**, **REST + API architecture**
-- 🎯 &nbsp;2025 goal: Ship 3 projects that real people actually use
+- 🎯 &nbsp;2026 goal: Ship 3 projects that real people actually use
 - ⚡ &nbsp;Fun fact: Started learning Flutter, pivoted to full stack
 
 ---
